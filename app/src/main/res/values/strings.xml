@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    <string-array name="temperature_units">
+        <item>Celsius to Fahrenheit</item>
+        <item>Fahrenheit to Celsius</item>
+    </string-array>
+</resources>
